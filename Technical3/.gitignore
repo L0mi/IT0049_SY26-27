@@ -1,0 +1,7 @@
+.env
+.DS_Store
+writable/debugbar/*.json
+writable/logs/*.log
+writable/session/ci_session*
+public/uploads/users/*
+!public/uploads/users/.gitkeep
